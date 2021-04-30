@@ -1,1 +1,9 @@
 {"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id 671266df-4b24-4e37-8f81-2322af168a3e created","level":"info"}
+{"message":"Bookmark with id 671266df-4b24-4e37-8f81-2322af168a3e deleted.","level":"info"}
+{"message":"Bookmark with id 10269f59-f77e-4eae-a6c2-4dd59abe85de deleted.","level":"info"}
+{"message":"Bookmark with if 10269f59-f77e-4eae-a6c2-4dd59abe85de not found.","level":"error"}
+{"message":"Bookmark with id 1ea4fe98-441c-4b72-9d5c-516ac0d032a5 deleted.","level":"info"}
+{"message":"Bookmark with id 7a0a8220-b50b-40e6-a684-663e927310c1 deleted.","level":"info"}
+{"message":"Bookmark with if 56031181-58fa-4b7b-8dc8-fc07aa5e3f04 not found.","level":"error"}
+{"message":"Bookmark with id 1b834919-7c16-4304-b681-2352101deb5a deleted.","level":"info"}

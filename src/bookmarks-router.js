@@ -74,7 +74,7 @@ bookmarksRouter
 
       logger.info(`Bookmark with id ${bookmark_id} deleted.`)
       res
-        .status(404)
+        .status(204)
         .end()
     })
 
